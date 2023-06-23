@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import midtermexam_versiona_extensioncode.UserProfile;
-// part of answer 3
+// part of answer3
 public class TestUserProfile {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
